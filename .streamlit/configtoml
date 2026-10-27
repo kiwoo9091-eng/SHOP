@@ -1,0 +1,14 @@
+[theme]
+base = "light"
+primaryColor = "#FF6B6B"
+backgroundColor = "#FFF8E7"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1E1E1E"
+font = "sans serif"
+
+[server]
+# 업로드 파일 최대 크기 (MB). CSV 백업만 올리므로 작게
+maxUploadSize = 2
+
+[browser]
+gatherUsageStats = false
